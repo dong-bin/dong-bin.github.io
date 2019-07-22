@@ -1,7 +1,5 @@
 # 조동빈, Dongbin Cho
 
-Phone :	(+82) 10 - 4520 - 7849
-
 E-mail :	cdb921226@gmail.com
 
 Address :	Seoul, South Korea
@@ -10,13 +8,11 @@ Address :	Seoul, South Korea
 
 ## Education
 
----
-
 ### 강원대학교, Kangwon University
 
 BD in Industrial Engineering
 
-GPA : 3.45/4.5, Advisor : Prof.Sangkyun Kim
+Advisor : Prof.Sangkyun Kim
 
 *Mar.2012 - Aug.2018*
 
@@ -28,8 +24,6 @@ GPA : 3.45/4.5, Advisor : Prof.Sangkyun Kim
 
 ## Professional Experience
 
----
-
 ### 한빛소프트, Hanbitsoft
 
 Full-time Machine Learning Engineer
@@ -39,8 +33,6 @@ Full-time Machine Learning Engineer
 ---
 
 ## Projects
-
----
 
 ### 음성 챗봇 개발, Voice Chatbot
 
@@ -54,25 +46,21 @@ Full-time Machine Learning Engineer
 
 ## Skills
 
----
-
 ### Language :	Python	/	C++	/	C
 
 Project Experience :	True	/	False	/	False
 
-### OS :	Windows	/	Linux	/	X
+### OS :	Windows	/	Linux	/	OS X
 
 Project Experience :	True	/	True	/	False
 
-### Framework :	Tensorflow	/	Pytorch
+### DL Framework :	Tensorflow	/	Pytorch
 
 Project Experience :	True	/	False
 
 ---
 
 ## Certificates
-
----
 
 ### 데이터분석 준전문가, ADsP
 
