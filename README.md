@@ -10,15 +10,15 @@ Address :	Seoul, South Korea
 
 ### 강원대학교, Kangwon University
 
-BD in Industrial Engineering
+> BD in Industrial Engineering
 
-Advisor : Prof.Sangkyun Kim
+> Advisor : Prof.Sangkyun Kim
 
-*Mar.2012 - Aug.2018*
+> *Mar.2012 - Aug.2018*
 
 ### SSAFY, Samsung Software Academy for Youth
 
-*Jul.2019 - Present*      
+> *Jul.2019 - Present*      
 
 ---
 
@@ -26,9 +26,9 @@ Advisor : Prof.Sangkyun Kim
 
 ### 한빛소프트, Hanbitsoft
 
-Full-time Machine Learning Engineer
+> Full-time Machine Learning Engineer
 
-*Nov.2018 - Apr.2019*
+> *Nov.2018 - Apr.2019*
 
 ---
 
@@ -36,27 +36,27 @@ Full-time Machine Learning Engineer
 
 ### 음성 챗봇 개발, Voice Chatbot
 
-*Hanbitsoft, 2018.11 - 2019.1*
+> *Hanbitsoft, 2018.11 - 2019.1*
 
 ### 다수 화자 음성 합성 모듈 개발, Multi-Speaker Speech Synthesis
 
-*Hanbitsoft, 2019.1 - 2019.4*
+> *Hanbitsoft, 2019.1 - 2019.4*
 
 ---
 
 ## Skills
 
-### Language :	Python	/	C++	/	C
+| Language           | Python | C++   | C     |
+| ------------------ | ------ | ----- | ----- |
+| Project Experience | True   | False | False |
 
-Project Experience :	True	/	False	/	False
+| OS :               | Windows | Linux | OS X  |
+| ------------------ | ------- | ----- | ----- |
+| Project Experience | True    | True  | False |
 
-### OS :	Windows	/	Linux	/	OS X
-
-Project Experience :	True	/	True	/	False
-
-### DL Framework :	Tensorflow	/	Pytorch
-
-Project Experience :	True	/	False
+| DL Framework       | Tenssorflow | Pytorch |
+| ------------------ | ----------- | ------- |
+| Project Experience | True        | False   |
 
 ---
 
