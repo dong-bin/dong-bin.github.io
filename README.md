@@ -46,24 +46,21 @@ Address :	Seoul, South Korea
 
 ## Skills
 
-| Language           | Python | C++   | C     |
-| ------------------ | ------ | ----- | ----- |
-| Project Experience | True   | False | False |
-
-| OS :               | Windows | Linux | OS X  |
-| ------------------ | ------- | ----- | ----- |
-| Project Experience | True    | True  | False |
-
-| DL Framework       | Tenssorflow | Pytorch |
-| ------------------ | ----------- | ------- |
-| Project Experience | True        | False   |
+| Language           | Python     | C++     | C     |
+| :----------------- | :--------- | :------ | :---- |
+| Project Experience | True       | False   | False |
+| OS                 | Windows    | Linux   | OS X  |
+| Project Experience | True       | True    | False |
+| DL Framework       | Tensorflow | Pytorch |       |
+| Project Experience | True       | False   |       |
 
 ---
 
 ## Certificates
 
-### 데이터분석 준전문가, ADsP
+- 데이터분석 준전문가, ADsP
 
-### TOEIC	910
+- TOEIC	910
 
-### OPIc	Advanced Low
+- OPIc	Advanced Low
+
