@@ -46,14 +46,14 @@ Address :	Seoul, South Korea
 
 ## Skills
 
-(`T/F`) : Project Experience
+(`T`) : Project Experience `True`
 
-| Categories   | Details          |               |            |
-| :----------- | :--------------- | :------------ | :--------- |
-| Language     | Python (`T`)     | C++ (`F`)     | C(`F`)     |
-| OS           | Windows (`T`)    | Linux (`T`)   | OS X (`F`) |
-| DL Framework | Tensorflow (`T`) | Pytorch (`F`) |            |
-| Web Framewor | Django (`F`)     | Flask (`F`)   |            |
+| Categories   | Details          |             |      |
+| :----------- | :--------------- | :---------- | :--- |
+| Language     | Python (`T`)     | C++         | C    |
+| OS           | Windows (`T`)    | Linux (`T`) | OS X |
+| DL Framework | Tensorflow (`T`) | Pytorch     |      |
+| Web Framewor | Django           | Flask       |      |
 
 ---
 
