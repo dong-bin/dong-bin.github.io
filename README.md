@@ -48,12 +48,12 @@ Address :	Seoul, South Korea
 
 (`T`) : Project Experience `True`
 
-| Categories   | Details          |             |      |
-| :----------- | :--------------- | :---------- | :--- |
-| Language     | Python (`T`)     | C++         | C    |
-| OS           | Windows (`T`)    | Linux (`T`) | OS X |
-| DL Framework | Tensorflow (`T`) | Pytorch     |      |
-| Web Framewor | Django           | Flask       |      |
+| Categories        | Details               |                  |           |
+| :---------------- | :-------------------- | :--------------- | :-------- |
+| Language<pre>     | Python (`T`)<pre>     | C++<pre>         | C<pre>    |
+| OS<pre>           | Windows (`T`)<pre>    | Linux (`T`)<pre> | OS X<pre> |
+| DL Framework<pre> | Tensorflow (`T`)<pre> | Pytorch<pre>     |           |
+| Web Framewor<pre> | Django<pre>           | Flask<pre>       |           |
 
 ---
 
