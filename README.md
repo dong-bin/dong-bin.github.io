@@ -46,13 +46,15 @@ Address :	Seoul, South Korea
 
 ## Skills
 
-| Language           | Python     | C++     | C     |
-| :----------------- | :--------- | :------ | :---- |
-| Project Experience | True       | False   | False |
-| OS                 | Windows    | Linux   | OS X  |
-| Project Experience | True       | True    | False |
-| DL Framework       | Tensorflow | Pytorch |       |
-| Project Experience | True       | False   |       |
+(`T`) : Project Experience `True`
+
+| Categories   | Details          |             |      |
+| :----------- | :--------------- | :---------- | :--- |
+| Language     | Python (`T`)     | C++         | C    |
+| OS           | Windows (`T`)    | Linux (`T`) | OS X |
+| DL Framework | Tensorflow (`T`) | Pytorch     | -    |
+| ML Framework | Scikit-learn     | -           | -    |
+| Web Framewor | Django           | Flask       | -    |
 
 ---
 
