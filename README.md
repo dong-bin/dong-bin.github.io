@@ -60,7 +60,7 @@ Address :	Seoul, South Korea
 
 - 데이터분석 준전문가, ADsP
 
-- TOEIC	910
+- TOEIC	850
 
-- OPIc	Advanced Low
+- OPIc	Intermediate High
 
